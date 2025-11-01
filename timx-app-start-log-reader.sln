@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timx-app-start-log-reader", "timx-app-start-log-reader.csproj", "{92904E1B-676F-4A51-8008-CE9B9DD18336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92904E1B-676F-4A51-8008-CE9B9DD18336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92904E1B-676F-4A51-8008-CE9B9DD18336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92904E1B-676F-4A51-8008-CE9B9DD18336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92904E1B-676F-4A51-8008-CE9B9DD18336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F4C5A0-C0F1-463E-AEBB-A39202C0D819}
+	EndGlobalSection
+EndGlobal
