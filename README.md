@@ -6,6 +6,8 @@ A .NET 9 console application that lists process launches and exits from the Wind
 
 This tool reads Event IDs 4688 (process start) and 4689 (process exit) from the Windows Security log and pairs them to show how long each instance of a process ran. It's useful for tracking application usage and debugging process lifecycle issues.
 
+**Origin Story**: This program was born out of a practical parenting need - checking whether the kids were actually following the "1 hour of Minecraft per weekend" agreement. Turns out the Windows Security log is a pretty reliable referee! 🎮⏱️
+
 ## Features
 
 - 📊 **Process tracking**: Matches process starts with exits to calculate runtime duration
